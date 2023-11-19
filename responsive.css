@@ -1,0 +1,270 @@
+@media screen and (max-width: 891px ) {
+    .banner1 {
+        min-height: 40vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 40vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 40vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 40vh;
+        background-position: center;
+    }
+}
+@media screen and (max-width: 666px ) {
+    #contact-form{
+        max-width: 500px;
+    }
+    .banner1 {
+        min-height: 40vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 40vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 40vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 40vh;
+        background-position: center;
+    }
+} 
+@media screen and (max-width: 613px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;  
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    #contact-form{
+        max-width: 500px;
+    }
+}
+@media screen and (max-width: 541px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;  
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    #contact-form{
+        max-width: 400px;
+    }
+}
+@media screen and (max-width: 533px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;
+        font-size: small;
+        
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    #contact-form{
+        max-width: 400px;
+    }
+}
+@media screen and (max-width: 456px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;
+        font-size: small;
+        
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    #contact-form{
+        max-width:340px;
+        margin: 6ch ;
+        margin-left: 1ch;
+    }
+}
+@media screen and (max-width: 434px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;
+        font-size: 0.7em;
+        
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    #contact-form{
+        max-width:340px;
+        margin: 6ch ;
+        margin-left: 1ch;
+    }
+    
+}
+@media screen and (max-width: 392px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;
+        font-size: 0.7em;
+        
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    #contact-form{
+        max-width: 300px;
+    }
+}
+@media screen and (max-width: 374px ) {
+    .logo {
+        width: 55px;
+    }
+    .site-navigation {
+        min-width: 100%;
+        justify-content: space-between;
+        font-size: x-small;
+        
+    }
+    .page-header {
+        justify-content: center;
+    }
+    .banner1 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner2 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner3 {
+        min-height: 30vh;
+        background-position: center;
+    }
+    .banner4 {
+        min-height: 30vh;
+        background-position: center;
+    }
+}
+   
+
